@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Darshit Sheth
+👨‍💻 Darshit Sheth
 
-🎓 I'm currently pursuing my **MSc in Data Science** from **Alliance University, Bangalore**, with a strong academic performance (**CGPA: 9.1**). I’m passionate about exploring data-driven technologies that power real-world applications.
+<h3 align="center"><code>Solving real-world problems with data science 🚀</code></h3>
 
 ---
 
-## 🚀 About Me
+### 🧑‍🎓 About Me
+
+Hi, I'm **Darshit**, currently pursuing my **MSc in Data Science** from **Alliance University, Bangalore**, with a strong academic performance (**CGPA: 9.1**). I’m passionate about exploring data-driven technologies that power real-world applications.
 
 - 🔍 **Current Focus:** Deep diving into **Deep Learning** concepts and architectures (CNNs, RNNs, Transformers).
 - 🤖 **Next Goals:** Exploring **LangChain** and **RAG (Retrieval-Augmented Generation)** to build context-aware AI applications.
@@ -13,6 +15,7 @@
 - 🔬 Always eager to learn, build, and collaborate on impactful projects.
 
 ---
+
 ## 💼 Open to Opportunities
 
 - ✅ Looking for **paid internships, research roles, or full-time opportunities** in Data Science, ML, or AI.
@@ -45,6 +48,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
----
 
-📌 *“Stay curious, stay building — because learning never stops.”*
