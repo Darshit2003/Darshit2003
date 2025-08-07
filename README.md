@@ -1,10 +1,12 @@
-👨‍💻 Darshit Sheth
+👨‍💻 Darshit Sheth  
 
-<h3 align="center"><code>Solving real-world problems with data science 🚀</code></h3>
+<h3 align="center">Solving real-world problems with data science 🚀</h3>
+
 
 ---
 
-### 🧑‍🎓 About Me
+## 🧑‍🚀 About Me
+
 
 Hi, I'm **Darshit**, currently pursuing my **MSc in Data Science** from **Alliance University, Bangalore**, with a strong academic performance (**CGPA: 9.1**). I’m passionate about exploring data-driven technologies that power real-world applications.
 
